@@ -6,4 +6,5 @@
 src/Config.php
 .DS_Store
 *.log
+*.apk
 /scratch/
