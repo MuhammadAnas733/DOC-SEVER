@@ -1,0 +1,9 @@
+/vendor/
+/sessions/*
+/storage/pdfs/*
+/storage/records/*
+/backups/*
+src/Config.php
+.DS_Store
+*.log
+/scratch/
